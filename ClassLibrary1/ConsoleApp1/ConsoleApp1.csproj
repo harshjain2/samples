@@ -18,8 +18,8 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj" />
-    <!--<ProjectReference Include="..\ClassLibrary1\ClassLibrary1ForTesting.csproj" />-->
+    <!--<ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj" />-->
+    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1ForTesting.csproj" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
