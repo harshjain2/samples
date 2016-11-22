@@ -1,0 +1,7 @@
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibraryForTesting.dll
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibraryForTesting.pdb
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibraryForTesting.Resources.Resources.resources
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibraryForTesting.csproj.GenerateResource.Cache
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibraryForTesting.AssemblyInfo.cs
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibraryForTesting.dll
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibraryForTesting.pdb

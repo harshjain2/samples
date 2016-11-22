@@ -1,0 +1,16 @@
+c:\users\harjain\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\harjain\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.Resources.Resources.resources
+c:\users\harjain\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csproj.GenerateResource.Cache
+c:\users\harjain\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.AssemblyInfo.cs
+c:\users\harjain\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.dll
+c:\users\harjain\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.pdb
+c:\users\harjain\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.dll
+c:\users\harjain\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.pdb
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.pdb
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.Resources.Resources.resources
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csproj.GenerateResource.Cache
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.AssemblyInfo.cs
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Users\harjain\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.pdb
